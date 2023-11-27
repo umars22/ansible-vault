@@ -1,0 +1,1 @@
+ansible-playbook -i inventory copy_sercets.yml --vault-password-file /home/thor/playbooks/get_vault_pass.py
